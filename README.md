@@ -1,5 +1,5 @@
 # 📠 Hi.
 I program in Shell, C++ and Ruby. Thanks.
 
-![lol](https://img.shields.io/badge/Pretty-cool-informational) ![daniellarson](https://img.shields.io/badge/'Grace can you seen them.'-'It's so cold.'-success)
+![lol](https://img.shields.io/badge/Pretty-cool-informational) ![daniellarson](https://img.shields.io/badge/Grace%20can%20you%20seen%20them.-It's%20so%20cold.-success)
 ![real](https://img.shields.io/badge/ㅤㅤㅤ-real-red)
