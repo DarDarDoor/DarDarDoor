@@ -1,10 +1,9 @@
 # DarDarDar#3429 :fax:
 
-Hi, I program in Shell, C++ and Ruby. Thanks.
+Hi, I'm bad at programming. Thanks.
 
 **DWM**: Is better than i3
 
 **Artix**: Is better than arch
 
-![lol](https://img.shields.io/badge/Pretty-cool-informational) ![daniellarson](https://img.shields.io/badge/Grace%20can%20you%20seen%20them.-It's%20so%20cold.-success)
-![real](https://img.shields.io/badge/ㅤㅤㅤ-Real-red)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
